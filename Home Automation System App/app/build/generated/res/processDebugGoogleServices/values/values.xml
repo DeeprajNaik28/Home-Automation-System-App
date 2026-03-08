@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">697658372094</string>
-    <string name="google_api_key" translatable="false">AIzaSyC23CfK3z3Xjyyxyys0sm7GcWIrvCxh03Q</string>
-    <string name="google_app_id" translatable="false">1:697658372094:android:2d991173e2f314f8525aaf</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC23CfK3z3Xjyyxyys0sm7GcWIrvCxh03Q</string>
-    <string name="google_storage_bucket" translatable="false">smart-room-automation-c7dda.firebasestorage.app</string>
-    <string name="project_id" translatable="false">smart-room-automation-c7dda</string>
-</resources>
