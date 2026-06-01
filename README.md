@@ -10,7 +10,7 @@ The project is designed to demonstrate how users can remotely interact with conn
 
 ## Important Note
 
-Only the app/frontend/backend source code related to the software application is available here.
+Only the app source code related to the software application is available here.
 
 ## Features
 
